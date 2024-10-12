@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "197744340182",
+    "project_id": "webtooninfo-97b0e",
+    "storage_bucket": "webtooninfo-97b0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197744340182:android:fc6b5763b201c8c1c8ad77",
+        "android_client_info": {
+          "package_name": "com.example.webtooninfo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD72DR97hh595SxJMV8RYCWafwJCXc2zmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
